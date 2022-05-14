@@ -14,7 +14,7 @@ Add functionality to inputs by using CSS variables and giving them functionality
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: [CSS-Variables-JS](https://03-css-variables.netlify.app/)
 
 ### What I learned
 
