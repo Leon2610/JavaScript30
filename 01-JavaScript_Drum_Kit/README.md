@@ -14,7 +14,7 @@ Create a drum kit in JS with events on the keyboard.
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: [JS Drum Kit](https://01-js-drum-kit.netlify.app/)
 
 ### What I learned
 
