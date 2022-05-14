@@ -14,7 +14,7 @@ Create the logic of the clock with JS
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: [CSS + JS Clock](https://02-css-js-clock.netlify.app/)
 
 ### What I learned
 
